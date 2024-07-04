@@ -32,6 +32,4 @@ The project is divided into several microservices, each responsible for a specif
 - Maven
 - MySQL
 
-### API Documentation
 
-You can import the Postman collection to test the APIs. [Download the Postman collection](URL Here)
